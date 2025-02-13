@@ -9,6 +9,7 @@
 ## Installation
 - Download the two `.ps1` files from the source code. Put them in the same folder.
 - Open Powershell: Windows+R then type in `powershell`. Hit "Run".
+- Type in: `Set-ExecutionPolicy Unrestricted`
 - cd to the folder where you downloaded the `.ps1` files. Run: `.\lvimg-inst-1.ps1`.
 - Wait for 5-10 mins. When it asks for anything, just press "a" or "y".
 - When it finishes, exit the terminal.
